@@ -1,64 +1,36 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+Add Driver Page
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![add driver](https://user-images.githubusercontent.com/115879314/203937673-641c0eb4-e2d5-45cb-ac46-874ef68482cd.PNG)
 
-## About Laravel
+Add Vehicle Page
+![add vehicle](https://user-images.githubusercontent.com/115879314/203937678-44e51781-fb91-4974-b453-faa646dc248c.PNG)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Add Driver List
+![driver list](https://user-images.githubusercontent.com/115879314/203937683-4833f5a5-ce19-4461-827b-615657010535.PNG)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Driver Report
+![driver report list](https://user-images.githubusercontent.com/115879314/203937688-f1a613c6-b292-433e-ad37-77e639de0831.PNG)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Parcel Registration
+![parcel registration](https://user-images.githubusercontent.com/115879314/203937691-f18fc8e2-9f0d-46e5-862e-63b04d40eea6.PNG)
 
-## Learning Laravel
+Report Generation
+![report genaration](https://user-images.githubusercontent.com/115879314/203937694-b6435f63-2abb-46dc-80b7-0c5a07dc0bba.PNG)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Search Vehicle - Output Result
+![search vehicle list](https://user-images.githubusercontent.com/115879314/203937695-33510e2f-2f48-4da8-89f7-f77771e57dc5.PNG)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Transport Management - Home Page
+![transport management-home page](https://user-images.githubusercontent.com/115879314/203937699-d7ba9486-9f0f-4f6a-874a-4e7d82d59178.PNG)
 
-## Laravel Sponsors
+Update Driver(Crud-Edit)
+![update driver](https://user-images.githubusercontent.com/115879314/203937704-49f2de91-af1b-47b2-af9e-a450972e0cf0.PNG)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Update Parcel(Crud-Edit)
+![update parcel state](https://user-images.githubusercontent.com/115879314/203937708-4d7857ce-4cc8-4e42-9cc9-af8697bb5c43.PNG)
 
-### Premium Partners
+Vehicle List(Crud-retrieve)
+![vehicle list](https://user-images.githubusercontent.com/115879314/203937712-fccd36a7-f29b-4cec-9811-f6461cfe7b8f.PNG)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Wholesale Buyer List
+![wholesale buyer list](https://user-images.githubusercontent.com/115879314/203937714-a08b09ad-cb36-4794-b887-27d4723809f5.PNG)
